@@ -1,16 +1,17 @@
+# bijan <bijanebrahimi@riseup.net>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-16 21:41+0430\n"
-"PO-Revision-Date: 2013-10-16 21:41+0430\n"
+"PO-Revision-Date: 2013-10-16 23:02+0430\n"
 "Last-Translator: bijan <bijanebrahimi@riseup.net>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en\n"
+"Language-Team: bijanebrahimi, persian translation\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Virtaal 0.7.1\n"
 
 msgid "A talk given by Eben Moglen at Columbia Law School on October 9th, 2013"
@@ -40,7 +41,7 @@ msgstr ""
 
 msgid "Surely not in the way that Chelsea Manning invited herself to 35 years in Fort Leavenworth."
 msgstr ""
-"و صد البته نه به شکلی که «چلسی منینگ» خودش رابرای ۳۵ سال زندان در زندان "
+"و صد البته نه به شکلی که «چلسی منینگ» خودش رابرای ۳۵ سال زندانی شدن به زندان "
 "«لیون ورث» دعوت کرده است."
 
 msgid "No, law professor-like I have assigned myself no onerous duties."
@@ -57,60 +58,93 @@ msgstr ""
 
 msgid "No one will remember much of what I have to say, but of the things about which I came here to speak—both those that have been done and those that remain to be done—I must say that they will never be forgotten."
 msgstr ""
+"هیچ کس به یاد نخواهد داشت بیشتر چیزی که مجبورم بگویم، اما از چیزهایی که به "
+"اینجا آمده‌ام که بگویم، چه آنهایی که گفته شده و چه باقی می‌ماند تا گفته شود، "
+"باید بگویم که «آنها» هرگز فراموش نخواهند شد."
 
 msgid "In the third chapter of his History of the Decline and Fall of the Roman Empire, Edward Gibbon gives two reasons why the slavery into which the Romans tumbled under Augustus and his successors left them more wretched than any previous human slavery."
 msgstr ""
+"در بخش سوم کتاب تاریخ «زوال و سقوط امپراطوری رم» از «ادوارد گیبن»، دو دلیل "
+"برای اینکه چرا برده‌داری‌ای که رم تحت رهبری «آگوستوس» و وارث او بنا شده‌بود، "
+"آنها را از هر برده‌دار دیگر تاریخ ضعیف‌تر کرد."
 
 msgid "In the first place, Gibbon said, the Romans had carried with them into slavery the culture of a free people—their language and their conception of themselves as human beings presupposed freedom."
 msgstr ""
+"در ابتدای کار، گیبن می‌گوید، رومی‌ها با خود به برده‌داری، فرهنگ مردمان آزاد "
+"را منتقل کردند. زبانشان و مفهوم خودشان از بشری که پیش از این آزاد پنداشته "
+"می‌شد."
 
 msgid "And thus, Gibbons says, oppressed as they were by the weight of their corruption and military violence, the Romans yet preserved for a long time the sentiments, or at least the ideas, of a freeborn people."
 msgstr ""
+"و بدینگونه، گیبن می‌گوید آنچنان که آنها تحت فشار فساد و خشونت نظامی بودند، "
+"هنوز احساسات و یا حداقل ایده یک انسان آزاده را برای مدتی طولانی نگاه داشتند."
 
 msgid "In the second place, the empire of the Romans filled all the world, and when that empire fell into the hands of a single person, the world was a safe and dreary prison for his enemies."
 msgstr ""
+"در جای دوم، امپراتوری رم تمام جهان را تسخیر کرد و زمانی که در دستان یک نفر "
+"سقوط کرد، جهان به زندانی تنگ برای دشمنانش تبدیل شده بود."
 
 msgid "As Gibbon says, to resist was fatal, and it was impossible to fly."
-msgstr ""
+msgstr "همانطور که گیبن می‌گوید، مقاومت کشنده و فرار غیر ممکن بود."
 
 msgid "The power of that Roman Empire rested in its control of communications."
-msgstr ""
+msgstr "قدرت امپراتوری رم در کنترل ارتباطاتش بود."
 
 msgid "The Mediterranean Sea, which was the transit hub of every western civilization, was their lake."
 msgstr ""
+"دریای مدیترانه‌ای که قطب ترانزیت تمامی تمدن‌های غربی بود، دریای آنها بود."
 
 msgid "And across their European empire, from Scotland to Syria, they pushed the roads—roads that fifteen centuries later were still primary arteries of European transportation."
 msgstr ""
+"و در سراتاسر امپراتوری رم، از اسکاتلند گرفته تا سوریه امروزی، راه‌هایی را "
+"بنا کردند که پانزده قرن بعد آن نیز هنوز شاهرگ اصلی ارتباطی اروپائیان "
+"می‌باشد."
 
 msgid "Down those roads which, as Gibbon says, rendered every corner of the Empire pervious to Roman power, the Emperor marched his armies."
 msgstr ""
 
 msgid "But up those roads he gathered his intelligence."
-msgstr ""
+msgstr "اما ازین راه‌ها او اطلاعات جاسوسی خود را جمع‌اوری می‌کرد."
 
 msgid "Augustus invented the posts: first for signals intelligence, to move couriers and messages at the fastest possible speeds; and then for human intelligence."
 msgstr ""
+"«آگوستوس» پست‌ها را بنیان نهاد: ابتدا برای ارسال اطلاعات، برای جابه‌جا کردن "
+"پیک‌ها و نامه‌ها با سریع‌ترین سرعت ممکنه، و سپس برای جاسوسان."
 
 msgid "He created the post-chaises, so that, as Gibbon says, those who were present when dispatches were written could be questioned by the Emperor."
 msgstr ""
+"او ارابه‌های پستی را ایحاد کرد که بنا به گفته گیبن، آنهایی که هنگام "
+"نوشته‌شدن نامه حضور داشتند، توسط امپراتور بتواند بازجویی شود."
 
 msgid "Using that infrastructure for control of communications, with respect to everything that involved the administration of power, the Emperor of the Romans made himself the best informed human being in the history of the world."
 msgstr ""
+"استفاده از آن زیرساخت برای کنترل ارتباطات با توجه به تمامی چیزهایی که در "
+"مدیریت قدرت دخیل بود، امپراتور را به بهترین قرد مطلع در تاریخ جهان تبدیل "
+"کرد."
 
 msgid "That power eradicated human freedom."
-msgstr ""
+msgstr "قدرتی که آزادی بشر را نابود ساخت."
 
 msgid "\"Remember,\" says Cicero to Marcellus in exile, \"wherever you are, you are equally within of the power of conqueror.\""
 msgstr ""
+"«به یاد داشته باشید» چیزی است که «سرسیو» به «مارسلوس» در تبعید می‌گوید: «در "
+"هر زمانی که باشی، به یک اندازه در حیطه قدرت یک سلطه‌جو می‌باشی»."
 
 msgid "The empire of the United States, the global empire that followed from victory in the Second World War, also depended upon control of communications."
 msgstr ""
+"امپراتوری ایالات متحده، امپراتوری سراتاسری‌ای که از پیروزی در جنگ جهانی دوم "
+"ادامه یافت نیز به کنترل ارتباطات وابسته است."
 
 msgid "Possibly the greatest military lesson of the Second World War was that he who has access to his adversaries' military communications prevails."
 msgstr ""
+"احتمالا بزرگترین درس نظامی جنگ جهانی دوم آن بود که اویی که به ارتباطات نظامی "
+"دشمنش دسترسی داشته باشد، پیروز است."
 
 msgid "At every level, from the tactical artillery duel to the greatest strategic naval confrontations in the Pacific, the new pace of warfare gave victory to the one who knew the other side's plans first."
 msgstr ""
+"در هر سطحی، از جنگ توپخانه‌ها گرفته تا استراتژی مقابله نیروی دریایی در "
+"اقیانوس‌ها، جنگ مدرن، پیروزی را به آنی می‌دهد که از برنامه طرف مقابل زودتر "
+"مطلع شود."
 
 msgid "This was all the more obviously crucial in the development of the power to rule the world when, a mere twenty years later, the empire of the United States was locked in a confrontation of nuclear annihilation with the Soviet empire—a war of submarines hidden in the dark below the continents, capable of eradicating human civilization in less than an hour in an imperial confrontation whose rule of engagement was \"launch on warning.\" Thus it was that the Empire of the United States came to have precisely the same view of the effort to render everywhere pervious to American power that had been the view of Emperor Augustus."
 msgstr ""
