@@ -1,0 +1,686 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-16 21:41+0430\n"
+"PO-Revision-Date: 2013-10-16 21:41+0430\n"
+"Last-Translator: bijan <bijanebrahimi@riseup.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+msgid "A talk given by Eben Moglen at Columbia Law School on October 9th, 2013"
+msgstr "سخنرانی «ایبن ماگلن» در دانشگاه حقوق کلمبیا در تاریخ ۹ اکتبر ۲۰۱۳"
+
+msgid "Good afternoon."
+msgstr "عصر بخیر."
+
+msgid "There is no introduction."
+msgstr "مقدمه‌ای وجود ندارد."
+
+msgid "After 26 years in this place it feels ridiculous to me to pretend that anyone is especially honored by my presence here."
+msgstr ""
+"بعد از ۲۶ سال در این جایگاه، برای من مسخره است که وانمود کنم دیگران در اینجا "
+"از حضور من مفتخر هستند."
+
+msgid "If I am to be frank about it, I invited myself."
+msgstr "اگر بخواهم رُک باشم، باید بگویم من خودم را دعوت کردم."
+
+msgid "Not in the way that Edward Snowden invited himself to Sheremetyevo Airport."
+msgstr "نه به شکلی که «ادوارد اسنودن» خودش را به فرودگاه «شرمیتریوف» دعوت کرد."
+
+msgid "Nor in the way that Julian Assange invited himself to the Ecuadorian embassy in London."
+msgstr ""
+"و همچنین نه به روشی که «جولین آسانژ» خودش را به سفارت ادوادر در لندن دعوت "
+"کرد."
+
+msgid "Surely not in the way that Chelsea Manning invited herself to 35 years in Fort Leavenworth."
+msgstr ""
+"و صد البته نه به شکلی که «چلسی منینگ» خودش رابرای ۳۵ سال زندان در زندان "
+"«لیون ورث» دعوت کرده است."
+
+msgid "No, law professor-like I have assigned myself no onerous duties."
+msgstr ""
+"نه، پروفسور حقوقی همچون من، هیچگونه وظیفه سنگینی را برای خود مقرر نکرده است."
+
+msgid "I undertook nothing more than to come here and to tell you the truth."
+msgstr "من هیچ وظیفه‌ای بجز آمدن به اینجا و گفتن حقیقت را بعهده نگرفته‌ام."
+
+msgid "I don't wish to force my ideas on anybody, but the truth is that I feel forced to speak myself."
+msgstr ""
+"تمایل ندارم که عقاید خود را به کسی تحمیل کنم، اما حقیقت این است که حسِ اجبار "
+"به سخن گفتم دارم."
+
+msgid "No one will remember much of what I have to say, but of the things about which I came here to speak—both those that have been done and those that remain to be done—I must say that they will never be forgotten."
+msgstr ""
+
+msgid "In the third chapter of his History of the Decline and Fall of the Roman Empire, Edward Gibbon gives two reasons why the slavery into which the Romans tumbled under Augustus and his successors left them more wretched than any previous human slavery."
+msgstr ""
+
+msgid "In the first place, Gibbon said, the Romans had carried with them into slavery the culture of a free people—their language and their conception of themselves as human beings presupposed freedom."
+msgstr ""
+
+msgid "And thus, Gibbons says, oppressed as they were by the weight of their corruption and military violence, the Romans yet preserved for a long time the sentiments, or at least the ideas, of a freeborn people."
+msgstr ""
+
+msgid "In the second place, the empire of the Romans filled all the world, and when that empire fell into the hands of a single person, the world was a safe and dreary prison for his enemies."
+msgstr ""
+
+msgid "As Gibbon says, to resist was fatal, and it was impossible to fly."
+msgstr ""
+
+msgid "The power of that Roman Empire rested in its control of communications."
+msgstr ""
+
+msgid "The Mediterranean Sea, which was the transit hub of every western civilization, was their lake."
+msgstr ""
+
+msgid "And across their European empire, from Scotland to Syria, they pushed the roads—roads that fifteen centuries later were still primary arteries of European transportation."
+msgstr ""
+
+msgid "Down those roads which, as Gibbon says, rendered every corner of the Empire pervious to Roman power, the Emperor marched his armies."
+msgstr ""
+
+msgid "But up those roads he gathered his intelligence."
+msgstr ""
+
+msgid "Augustus invented the posts: first for signals intelligence, to move couriers and messages at the fastest possible speeds; and then for human intelligence."
+msgstr ""
+
+msgid "He created the post-chaises, so that, as Gibbon says, those who were present when dispatches were written could be questioned by the Emperor."
+msgstr ""
+
+msgid "Using that infrastructure for control of communications, with respect to everything that involved the administration of power, the Emperor of the Romans made himself the best informed human being in the history of the world."
+msgstr ""
+
+msgid "That power eradicated human freedom."
+msgstr ""
+
+msgid "\"Remember,\" says Cicero to Marcellus in exile, \"wherever you are, you are equally within of the power of conqueror.\""
+msgstr ""
+
+msgid "The empire of the United States, the global empire that followed from victory in the Second World War, also depended upon control of communications."
+msgstr ""
+
+msgid "Possibly the greatest military lesson of the Second World War was that he who has access to his adversaries' military communications prevails."
+msgstr ""
+
+msgid "At every level, from the tactical artillery duel to the greatest strategic naval confrontations in the Pacific, the new pace of warfare gave victory to the one who knew the other side's plans first."
+msgstr ""
+
+msgid "This was all the more obviously crucial in the development of the power to rule the world when, a mere twenty years later, the empire of the United States was locked in a confrontation of nuclear annihilation with the Soviet empire—a war of submarines hidden in the dark below the continents, capable of eradicating human civilization in less than an hour in an imperial confrontation whose rule of engagement was \"launch on warning.\" Thus it was that the Empire of the United States came to have precisely the same view of the effort to render everywhere pervious to American power that had been the view of Emperor Augustus."
+msgstr ""
+
+msgid "And our listeners aspired to everything."
+msgstr ""
+
+msgid "Now, the structure of listening which came out of the Second World War—the spying on signals, the stealing of signals and the breaking of codes—this was, under everybody's understanding of the new order of power in the world, the crucial center of it all."
+msgstr ""
+
+msgid "And, while it has been commonplace to recognize since the end of the Cold War that the United States has spent for decades as much on its military might as all other powers in the world combined, it has not necessarily followed in people's consciousness that we applied to the stealing of signals and the breaking of codes a similar proportion of our diligence."
+msgstr ""
+
+msgid "That system of listening, which had at its center the same reality of power, that system which grew up under the National Security Act and its successor legislation in the United States, had a particular systemic form: listening was under military command, controlling large civilian workforces."
+msgstr ""
+
+msgid "That structure, of course, presupposed precisely the foreign intelligence nature of the activity."
+msgstr ""
+
+msgid "Military control was both a symbol and a guarantee of the nature of the activity being pursued: everybody understood that if you had put such activity domestically under military control you would have violated the fundamental principle of the civilian control of the government of the United States."
+msgstr ""
+
+msgid "Instead what we had was a foreign intelligence service regarded as the most important basis of American power, responsible to the chief executive of the United States as commander-in-chief, and based in military control and military integrity."
+msgstr ""
+
+msgid "Because, of course, integrity was the other side of this coin."
+msgstr ""
+
+msgid "Military control ensured absolute command deference with respect to the fundamental principle which made it all \"all right,\" which was: \"No Listening Here.\" The boundary between home and away was the boundary between absolutely permissible and absolutely impermissible—between the world in which those whose job it is to kill people and break things instead stole signals and broke codes, and the constitutional system of ordered liberty."
+msgstr ""
+
+msgid "There's lots to be said—and we will need to say it as our time together goes by—about the morality of that assumption."
+msgstr ""
+
+msgid "But I must ask you to keep in mind that it also was accompanied by the reality of communications in the twentieth century, which were hierarchically organized and very often state-controlled."
+msgstr ""
+
+msgid "When the United States Government chose to listen to other governments abroad—to their militaries, to their diplomatic communications, to their policy-makers where they could—they were listening in a world of defined targets."
+msgstr ""
+
+msgid "As to which they were roughly entitled to their favored assumption, which was that everybody else was listening back at them on those targets pretty much just as hard as they could, which was of course way less hard than we, because we were the Empire."
+msgstr ""
+
+msgid "On this basis, we formed fundamental alliances with the other English-speaking societies in the world for a complete cooperation of signals intelligence, based around two fundamental predicates: the listeners in each of the English speaking societies were not listening at home, and they were not spying on one another."
+msgstr ""
+
+msgid "Therefore they and we stood back to back in their listening against the world."
+msgstr ""
+
+msgid "And on that basis, in the era of the digital computer, we began to be capable of taking everything."
+msgstr ""
+
+msgid "\"Everything\" was defined as all signals in the electromagnetic spectrum and its copper wire accessories."
+msgstr ""
+
+msgid "The basic principle was: hack, tap, steal—where the roof of every US embassy, and every American naval asset at sea, and every other place that we could cram antennas held the ones that we wanted to have there."
+msgstr ""
+
+msgid "And where every deal that we could make for exchange of signals intelligence among parties committed to listening gave us everything."
+msgstr ""
+
+msgid "Thus we could get what we needed, and we felt we needed it all."
+msgstr ""
+
+msgid "In the beginning we listened to militaries and their governments."
+msgstr ""
+
+msgid "Later we monitored the flow of international trade as far as it engaged American national security interests."
+msgstr ""
+
+msgid "But there is this about the weapons of war: In 1937, bombing civilian populations from the air was an innovation in the criminality of war, and Pablo Picasso found it worthy of his work."
+msgstr ""
+
+msgid "Less than a decade later, dozens of the greatest cities in the world lay in rubble and United States Government had dropped nuclear weapons on cities in Japan."
+msgstr ""
+
+msgid "Now the United States Government considers aerial bombardment to be the cleanest form of war."
+msgstr ""
+
+msgid "In the beginning we listened to armies, embassies, diplomats, government officials."
+msgstr ""
+
+msgid "Then we listened to the global economy."
+msgstr ""
+
+msgid "Now we are being told that spying on entire societies is normal."
+msgstr ""
+
+msgid "The regime that we built to defend ourselves against nuclear annihilation, in a world where access to the other fellow's signals is what makes victory, came at the end of the twentieth century under two forms of profound social restructuring."
+msgstr ""
+
+msgid "In the first place, the Cold War ended and the Soviet Union dissolved."
+msgstr ""
+
+msgid "An entire establishment of national security—which continues to absorb more resources in the United States than in all the rest of the world put together, and I am including the listeners—an entire national security structure re-purposed itself, not to spy upon an empire with twenty-five thousand nuclear weapons pointed down our throats, but at the entire population of the world in order to locate a few thousand people minded to various kinds of mass murder."
+msgstr ""
+
+msgid "In the second place, the nature of human communication changed."
+msgstr ""
+
+msgid "The system that they built, with all of its arrangements, was dependent as I said upon fixed targets: a circuit, a phone number, a license plate, a locale."
+msgstr ""
+
+msgid "The question of capacity was about how many targets you could simultaneously follow in a world where each of them required hack, tap, steal."
+msgstr ""
+
+msgid "But what happened at the beginning of the twenty-first century was that we acquired a new way of communicating in the human race—the beginning of the beginning of the beginning of the nervous system we are building in which each human being is a neuron in that great hive-mind called humanity."
+msgstr ""
+
+msgid "And from the moment we began to do that, two things began to fail: the simplicity of \"one target one circuit\" went away, and the difference between inside and outside vanished too."
+msgstr ""
+
+msgid "In particular it vanished in the United States, because so much of the intelligence of the brain being built for humanity, for better and for worse, resided here."
+msgstr ""
+
+msgid "Therefore the question \"do we listen inside?\" came to seem like a question about \"are we going to lose the ability to listen at all?\" About which, of course, fundamental doctrine of national security—whatever \"national security\" means—had only one acceptable answer."
+msgstr ""
+
+msgid "Into this mixture, of the structures of the twentieth-century imperial power and the reality of twenty-first century technology, a vastly imprudent American administration then intervened."
+msgstr ""
+
+msgid "Whatever else, history will record of them that they didn't think long before acting."
+msgstr ""
+
+msgid "Presented with a national calamity which also constituted a political opportunity, nothing stood between them and all the mistakes that haste can make for history to repent at leisure."
+msgstr ""
+
+msgid "And what they did, of course—in secret, with the assistance of judges chosen by a single man operating in secrecy, and with the connivance of many decent people who believed themselves to be doing the only thing that would save the society—was to unchain the listeners from law."
+msgstr ""
+
+msgid "Not only had circumstances destroyed the simplicity of \"no listening inside,\" not only had fudging with the Foreign Intelligence Surveillance Act carried them into the land where law no longer provided them with useful landmarks, but they wanted to do it—let's be frank, they wanted to do it."
+msgstr ""
+
+msgid "Their view of the nature of human power was Augustan if not august."
+msgstr ""
+
+msgid "They wanted what it is forbidden to wise people to take unto themselves."
+msgstr ""
+
+msgid "And so they fell, and we fell with them."
+msgstr ""
+
+msgid "Our journalists failed."
+msgstr ""
+
+msgid "The New York Times allowed the 2004 election not to be informed by things that it knew, having made a decision which, no matter how many Pulitzer prizes it goes on to win, will always be a pain in our recollections (if not elsewhere)."
+msgstr ""
+
+msgid "We failed collectively to show any outrage, because we were afraid."
+msgstr ""
+
+msgid "We did not demand the end at the beginning."
+msgstr ""
+
+msgid "And now we're a long way in."
+msgstr ""
+
+msgid "We had our Guernica and we paid little attention."
+msgstr ""
+
+msgid "And there weren't any limits anymore."
+msgstr ""
+
+msgid "They were living in an evolving net, with conscriptable digital brains gathering intelligence on all the human race for mere purposes of bagatelle and capitalism."
+msgstr ""
+
+msgid "So they perverted those places."
+msgstr ""
+
+msgid "And to the network operators we gave legal immunity in the United States for complicity, thus easing the way further."
+msgstr ""
+
+msgid "Then, there began a revolt inside."
+msgstr ""
+
+msgid "In Hong Kong, during his brief career as a public thinker and speaker—which I commend to your attention and which we will spend much time talking about in future times together—in his career as a public commentator, Edward Snowden said a very straightforward and useful thing; he said, analysts are not bad people, and they don't want to think of themselves that way, but they came to calculate that if a program produced anything useful, then it was justified."
+msgstr ""
+
+msgid "Because, of course, it was not their job to weigh the fundamental morality."
+msgstr ""
+
+msgid "Which is too bad, because the people whose job it was to weigh the fundamental morality failed more bitterly than we, and our journalists, and our everybody else."
+msgstr ""
+
+msgid "They fell, and we fell with them, because they refused to accept that there is a morality of freedom."
+msgstr ""
+
+msgid "And it was the people who worked for them who felt their failure first."
+msgstr ""
+
+msgid "So, from the middle of the first decade of the twenty-first century, people began to blow whistles all over the field."
+msgstr ""
+
+msgid "Those courageous people sacrificed their careers, frightened themselves, sometimes suffered personal destruction, to say that there was something deeply wrong."
+msgstr ""
+
+msgid "Later I shall try and show you both how they came to those conclusions and what they tried to say."
+msgstr ""
+
+msgid "But it is sufficient for the moment to say that what happened back was: Rule By Fear."
+msgstr ""
+
+msgid "It will be sufficient to say that, in their unwisdom, those who believed in the importance of the listeners and their activities sought to deal with those who blew the whistle by the harshest possible treatment."
+msgstr ""
+
+msgid "It is unfortunate to have to dwell on the extent of the failures, once the morality of freedom was no longer part of their world."
+msgstr ""
+
+msgid "Mr. Snowden said in Hong Kong that he was sacrificing himself—which he knew he was doing—in order to save the world from a system like this one constrained only by policy documents."
+msgstr ""
+
+msgid "Next time we meet we shall think long and hard about the political ideas of Edward Snowden—they are worthy of your respect and your deep consideration."
+msgstr ""
+
+msgid "But for now, once again, it will be sufficient to say that he was not exaggerating the nature of the difficulty."
+msgstr ""
+
+msgid "Because of Mr. Snowden, we now know that the listeners, in their aggressive effort to maintain the security of the United States by breaking anything that stands in the way of listening, undertook to do what they repeatedly promised respectable opinion in the trade they would never do."
+msgstr ""
+
+msgid "Systematically, they attempted what they had once and for all promised many a time in the discreetest but most credible fashion to respectable opinion, which then carried their water for them throughout our world."
+msgstr ""
+
+msgid "They always said they would not attempt breaking the crypto which secures the global financial system."
+msgstr ""
+
+msgid "That was false."
+msgstr ""
+
+msgid "When, on September 6th, the New York Times re-entered the pursuit of journalism in this area so triumphantly, by revealing the existence of Bull Run, publishing Mr. Snowden's various disclosures concerning both the substance of Bull Run and the National Security Agency's discussions of it, we learned that the United States listeners had been systematically and deliberately trying to subvert the crypto that holds the international financial system together, for years."
+msgstr ""
+
+msgid "And we learned a good deal more—which we shall spend more time upon on another evening, considering carefully what we learned in this respect—we learned that their efforts had been so far only partially successful."
+msgstr ""
+
+msgid "Within hours they had forfeited respectable opinion around the world, which had stood solidly in their corner all the way along."
+msgstr ""
+
+msgid "The recklessness of what they had done, and the danger to which it put the people in the world who don't accept danger from the United States Government, was breathtaking."
+msgstr ""
+
+msgid "When the morality of freedom is so thoroughly thrown away, it isn't only the \"little people\" of the world who suffer, but they do."
+msgstr ""
+
+msgid "The empire of the United States, the one that secured itself by listening to everything, was the empire of exported liberty."
+msgstr ""
+
+msgid "What we had to offer all around the world was freedom—after colonization, after European theft, after the forms of twentieth-century horror we haven't even talked about yet—we offered liberty; we offered freedom."
+msgstr ""
+
+msgid "In the twentieth century we were prepared to sacrifice many of the world's great cities, and to accept the sacrifice of tens of millions of human lives, in order to secure our selves against forms of government we called \"totalitarianism,\" in which the State grew so powerful and so invasive that it recognized no longer any border of private life, and brought itself into everything that its subjects did."
+msgstr ""
+
+msgid "Where the State listened to every telephone conversation, and kept a list of everybody every troublemaker knew."
+msgstr ""
+
+msgid "So let us unfortunately tell the truth as it appeared to the people who worked in the system: When the morality of freedom was withdrawn, our State began fastening the procedures of totalitarianism on the substance of democratic society."
+msgstr ""
+
+msgid "There is no historical precedent for the proposition that the procedures of totalitarianism are compatible with the system of enlightened, individual, democratic self-governance."
+msgstr ""
+
+msgid "No one has ever previously in the history of the human race evolved an argument—and as I will show next time no argument can be evolved—that would give us any confidence in the ability of the procedures of totalitarianism to coexist with those of constitutional democratic self-governance."
+msgstr ""
+
+msgid "It is enough to say for now that omnipresent invasive listening creates fear."
+msgstr ""
+
+msgid "And I need not be Justice Brandeis to tell you that fear is the enemy of reasoned, ordered liberty."
+msgstr ""
+
+msgid "It is, of course, utterly inconsistent with the American ideal to attempt to fasten the procedures of totalitarianism on American constitutional self-governance."
+msgstr ""
+
+msgid "And this summer many of my dear colleagues and comrades in our movement have spent much of time in the United States pointing out that all of this is deeply is inconsistent with some important American right not to be listened to."
+msgstr ""
+
+msgid "Which right I too have, with them, and believe in deeply."
+msgstr ""
+
+msgid "But which it is not my point primarily to assert just this moment."
+msgstr ""
+
+msgid "Partly, as I shall suggest next time, because freedom is merely privilege extended unless enjoyed by one and all."
+msgstr ""
+
+msgid "But primarily because there is an even deeper inconsistency between American ideals and the subjection of every other society on earth to the procedures of totalitarianism."
+msgstr ""
+
+msgid "Freedom hath been hunted round the globe."
+msgstr ""
+
+msgid "Asia and Africa have long expelled her."
+msgstr ""
+
+msgid "Europe has been bullied into treating her like a stranger and England would take her into detention at Heathrow should she arrive."
+msgstr ""
+
+msgid "The President of the United States has ordered everyone not to receive the fugitive, and to prepare in time an asylum for humankind."
+msgstr ""
+
+msgid "You see how it works when you rewrite Tom Paine without the morality of freedom."
+msgstr ""
+
+msgid "And so our primary problem right now is that we allowed them to export slavery to the world."
+msgstr ""
+
+msgid "All of which, in one form or another, became clear, in one mind after another, within the bowels of the empire and its listeners over the last decade."
+msgstr ""
+
+msgid "William Binney—with whom we shall spend some time along the way—said in a public speech \"I left the NSA because the systems that I built were turned against you."
+msgstr ""
+
+msgid "We had a legitimate charter in foreign intelligence gathering, but then they went and turned those systems against you—I didn't mean it, but they did it.\""
+msgstr ""
+
+msgid "People began to understand within the system that it was being sustained against democratic order, not with it."
+msgstr ""
+
+msgid "Because they knew that what had come unmoored had come unmoored in the dark, and was sailing without a flag."
+msgstr ""
+
+msgid "They were good people, and they began to break."
+msgstr ""
+
+msgid "And when they broke, the system broke them back."
+msgstr ""
+
+msgid "In the end, at least so far, until tomorrow, there was Mr. Snowden, who saw everything that happened and watched what happened to the others."
+msgstr ""
+
+msgid "He understood, as Chelsea Manning also always understood, that when you wear the uniform you consent to the power."
+msgstr ""
+
+msgid "He knew his business very well."
+msgstr ""
+
+msgid "Young as he was, as he said in Hong Kong, \"I've been a spy all my life,\" and I believe him."
+msgstr ""
+
+msgid "And so he did what you have to have great courage to do, wherever you are, in the presence of what you believe to be radical injustice."
+msgstr ""
+
+msgid "He wasn't first, he won't be last, but he sacrificed his life to tell us things we needed to know."
+msgstr ""
+
+msgid "Edward Snowden committed espionage on behalf of the human race."
+msgstr ""
+
+msgid "Knowing the price, knowing the reason, knowing that it wouldn't be up to him whether sacrificing his life was worth it."
+msgstr ""
+
+msgid "So I would think that our most important effort, first, is to understand the message: to understand its context, to understand its purpose, to know its meaning, and to experience the consequences of having received the communication."
+msgstr ""
+
+msgid "Others will of course regard the first imperative as being to eliminate the message, and the messenger, and the meaning: to render everything as invisible as possible."
+msgstr ""
+
+msgid "Because invisibility is where listeners have to live in order to work."
+msgstr ""
+
+msgid "But I think we must let them go about that business."
+msgstr ""
+
+msgid "We must let them try to obliterate the message as best they can, and do our work, which is the work of understanding first."
+msgstr ""
+
+msgid "It will be difficult to judge, when you come to the moment where you consider yourself either entitled or obliged to begin doing so."
+msgstr ""
+
+msgid "The reason that it will be difficult to judge is that there is always much to say on both sides when someone is greatly right too soon."
+msgstr ""
+
+msgid "In the United States, those who were \"premature anti-fascists\" suffered later."
+msgstr ""
+
+msgid "It was right to be right when all others were right."
+msgstr ""
+
+msgid "And it was wrong to be right when only the people we didn't want to be were already there."
+msgstr ""
+
+msgid "I need not explain to you that it is possible to consider a man a terrorist who tried to do too soon what we took four years and 750,000 lives in order to achieve, namely to free the slaves."
+msgstr ""
+
+msgid "And I do not need to explain to you why it is that Gibbon considered the master key to the tender respect of Augustus for a free constitution, which he had destroyed, to be his fear."
+msgstr ""
+
+msgid "The death of Caesar was always before his eyes, says Gibbon, and this shaped his principles in politics."
+msgstr ""
+
+msgid "Augustus was sensible, says Gibbon, that mankind is ruled by names; and he was not deceived in his expectation that the Senate and the Romans would submit to slavery, so long as they were respectfully assured that they kept all their ancient freedom."
+msgstr ""
+
+msgid "So there are some pieces that we need to put together in order to understand."
+msgstr ""
+
+msgid "In the first place we must see the politics of now, both as Mr. Snowden saw it, thus bringing us the message we must live with, and as we see it in ourselves."
+msgstr ""
+
+msgid "We shall consider, next time, the politics of our condition."
+msgstr ""
+
+msgid "I shall suggest to you that it lies in this: if we are not doing anything wrong, we have a right to resist."
+msgstr ""
+
+msgid "The nature of our freedom is that we lose it because we do not exercise it."
+msgstr ""
+
+msgid "And the nature of our freedom is not necessarily the one we find only in the books of law."
+msgstr ""
+
+msgid "We shall consider two constitutional traditions in the United States next time."
+msgstr ""
+
+msgid "One made by European people running away to be free and one made by African people, forced into slavery, who had to run away, in the United States, in order to be free."
+msgstr ""
+
+msgid "Two constitutional traditions of resistance—differently structured and equally in our bones."
+msgstr ""
+
+msgid "Now we must consider the relation that we have to the rest of the human race in this, and ask ourselves whether we are seeking privilege or something that belongs to all of humankind."
+msgstr ""
+
+msgid "For which it will be necessary to understand the ideas of those who have risked their lives to inform us, not because their ideas are necessarily privileged above our own, but because they have sad experience from which to speak."
+msgstr ""
+
+msgid "We must think about the role of all those working people in the systems, both private and public, which constitute spying on humanity."
+msgstr ""
+
+msgid "We must ask what they are telling us in their resistance and what our side in their resistance ought to be."
+msgstr ""
+
+msgid "That workers were complaining in the Gulf last week was making a question for global football."
+msgstr ""
+
+msgid "We might want to be at least equally concerned with what we have learned from the workers inside the matrix all this while."
+msgstr ""
+
+msgid "We must ask what it means—both in the private and in the public world of listening and spying and analyzing and concluding—this thing that we're now calling \"privacy,\" in relation to the thing that we used to call freedom."
+msgstr ""
+
+msgid "But of course, in the end, all of this would not be worth talking about here, much less your coming to listen to me talk here, unless we were going to talk about what we are actually going to do."
+msgstr ""
+
+msgid "If the problem is that we slept too long, then plainly Mr. Snowden did not come but to wake us up."
+msgstr ""
+
+msgid "We shall see that there are both legal and political forms of resistance around the world that we must all engage in."
+msgstr ""
+
+msgid "And I shall show next time as best I can the possibilities down which we may choose to take ourselves in that regard."
+msgstr ""
+
+msgid "But we must also change the way we communicate, so as to restore the balance between what they can and what they can't do."
+msgstr ""
+
+msgid "Here lies the secret of Mr. Snowden's enormous sacrifice and their enormous anger."
+msgstr ""
+
+msgid "Because the center of what Mr. Snowden has done is to tell us what armor still works."
+msgstr ""
+
+msgid "He has spent his life now for us, to tell us what we still have time to do if want to restore to the technology of our communications the morality of freedom."
+msgstr ""
+
+msgid "He has been quite precise."
+msgstr ""
+
+msgid "He has been quite careful."
+msgstr ""
+
+msgid "He has been most thorough."
+msgstr ""
+
+msgid "He understands his business."
+msgstr ""
+
+msgid "He has spied on injustice for us and he has told us what we needed to know."
+msgstr ""
+
+msgid "Despite the efforts continuing every instant all around us, in a world becoming a safe and dreary prison for their enemies, he has told us what we require in order to do the job and get it right."
+msgstr ""
+
+msgid "And if we have a responsibility at all, then part of our responsibility is to learn, now, before somebody concludes that learning should be prohibited."
+msgstr ""
+
+msgid "Which never happens in a free society."
+msgstr ""
+
+msgid "I wish we weren't here."
+msgstr ""
+
+msgid "I don't wish that I wasn't here more than I wish you weren't here."
+msgstr ""
+
+msgid "I wish us all out of this war."
+msgstr ""
+
+msgid "Twelve years—the longest war in history of this society, nowhere concluded, nowhere near finishing, nowhere capable of being defined as done."
+msgstr ""
+
+msgid "We went from listening to armies and embassies to listening to global trade and now we are fastening spying on entire societies, with a skill and energy that only a growing empire can still manage."
+msgstr ""
+
+msgid "We shall talk about the world where a nation of 1.3 billion people gains a Content Monitoring System in sixteen months, against the ordinary suppositions of every Indian person who thinks, \"they can't do that.\" But, thanks to the new Bechtel, Booz Allen Hamilton—erstwhile employer of one Edward J."
+msgstr ""
+
+msgid "Snowden—yes they can."
+msgstr ""
+
+msgid "The procedures—mind you only the procedures—of totalitarianism are a leading American export these days."
+msgstr ""
+
+msgid "I wish we weren't here."
+msgstr ""
+
+msgid "I wish that everything we thought we did in the twentieth century we had accomplished."
+msgstr ""
+
+msgid "I wish we had defeated totalitarianism."
+msgstr ""
+
+msgid "I wish we had eliminated smallpox."
+msgstr ""
+
+msgid "I wish that we were growing the Net that we deserve to have, in which every human brain could learn and every human being could grow, nourished by the knowledge and the support of all the others."
+msgstr ""
+
+msgid "There may come a day."
+msgstr ""
+
+msgid "But if we have only one more river to cross before we get to freedom, it's a deep one, and it runs fast the other way."
+msgstr ""
+
+msgid "And those who want to bring us out are going to be called traitors—they are."
+msgstr ""
+
+msgid "And God forbid that they should lift their hands in anger, or they will be slaughtered."
+msgstr ""
+
+msgid "And those who do it will feel they have all the right on their side."
+msgstr ""
+
+msgid "It is wrong to be right too soon."
+msgstr ""
+
+msgid "It's wrong to be right too soon, but it is not too soon to be right now."
+msgstr ""
+
+msgid "Because if we're not right now, then they will remember our failure for fifteen centuries."
+msgstr ""
+
+msgid "And they will say of us, oppressed by the weight of our corruption, and our fear of terrorist violence, that we were ready to submit so long as we were assured that we possessed our ancient freedoms."
+msgstr ""
+
+msgid "And as for everybody else—if not \"Civis romanus sum,\" then who are you?"
+msgstr ""
+
+msgid "Which is no way for us to be talking."
+msgstr ""
+
+msgid "Not now, not ever."
+msgstr ""
+
+msgid "We have wandered so far into the dark that we have lost who we are."
+msgstr ""
+
+msgid "Like many a tragic figure in history, Mr. Snowden went further out into the dark in the hope that he could lead us back."
+msgstr ""
+
+msgid "We had better do our best to learn from him what we can, as we watch his light vanish into the darkness."
+msgstr ""
